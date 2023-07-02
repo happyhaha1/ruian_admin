@@ -1,23 +1,15 @@
 {
-  "name": "geeker-admin",
+  "name": "ruian_admin",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "geeker-admin open source management system",
+  "description": "ruian-admin open source management system",
   "author": {
-    "name": "Geeker",
-    "email": "848130454@qq.com",
-    "url": "https://github.com/HalseySpicy"
+    "name": "happyhaha",
+    "email": "474248257@qq.com",
+    "url": "https://github.com/happyhaha1"
   },
   "license": "MIT",
-  "homepage": "https://github.com/HalseySpicy/Geeker-Admin",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:HalseySpicy/Geeker-Admin.git"
-  },
-  "bugs": {
-    "url": "https://github.com/HalseySpicy/Geeker-Admin/issues"
-  },
   "scripts": {
     "dev": "vite",
     "serve": "vite",
